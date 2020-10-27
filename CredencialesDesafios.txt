@@ -1,0 +1,76 @@
+CLAVE API
+jBaWfJyw-MEGMnPvEPao2w3f5lpPrKSiDh_RsgKYcqHq
+URL
+https://api.us-south.assistant.watson.cloud.ibm.com/instances/359ef820-f9ac-4cd1-a439-c4842770e21d
+https://api.us-south.assistant.watson.cloud.ibm.com/instances/359ef820-f9ac-4cd1-a439-c4842770e21d
+
+Assitant ID: 42998980-1d6b-4b10-870b-f0e7961dfcf4
+Skill ID:bde930f7-e7b1-4d7e-8110-e5e4c5bb9c76
+
+URL ASISTAN
+https://api.us-south.assistant.watson.cloud.ibm.com/instances/359ef820-f9ac-4cd1-a439-c4842770e21d/v2/assistants/42998980-1d6b-4b10-870b-f0e7961dfcf4/sessions
+
+
+Credenciales 2do Desafio
+{
+  "apikey": "LxfAbLYf68dEjPXgKHOogY56Fjm7GpMtkN9ozH1pJcZN",
+  "iam_apikey_description": "Auto-generated for key a41eca3c-4d08-4e15-b2d8-91cf57a8618f",
+  "iam_apikey_name": "Credenciales de servicio-1",
+  "iam_role_crn": "crn:v1:bluemix:public:iam::::serviceRole:Writer",
+  "iam_serviceid_crn": "crn:v1:bluemix:public:iam-identity::a/08f0243a8c1c4400816f658b23ae1bd1::serviceid:ServiceId-23fb29bc-3b7c-4852-a091-e335c9ab7669",
+  "instance_id": "1b22fcab-92b0-4471-bd88-99c1498e21d2",
+  "url": "https://us-south.ml.cloud.ibm.com"
+}
+
+{
+  "apikey": "5byIlPBO27ovwtdsd5VmmS7mJD6nG583tmecHbHB6TGr",
+  "iam_apikey_description": "Auto-generated for key 43133d70-ffc5-4964-9e8b-57a5e12f6b5e",
+  "iam_apikey_name": "Auto-generated service credentials",
+  "iam_role_crn": "crn:v1:bluemix:public:iam::::serviceRole:Manager",
+  "iam_serviceid_crn": "crn:v1:bluemix:public:iam-identity::a/08f0243a8c1c4400816f658b23ae1bd1::serviceid:ServiceId-cfa3116a-9402-4d2e-be14-82fdc7f966da",
+  "url": "https://api.us-south.natural-language-understanding.watson.cloud.ibm.com/instances/65b136aa-b810-4ec0-81e6-88cd7ba836f0"
+}
+
+
+URL MODELO 
+
+https://us-south.ml.cloud.ibm.com/v3/wml_instances/1b22fcab-92b0-4471-bd88-99c1498e21d2/deployments/626baf43-a3d4-4339-8341-17f012be3b24/online
+ 
+ 
+ 
+ CRED desfaio 3
+ ID MODELO
+ 6176e34e-7970-460f-b596-1339f10c83c0
+ 
+ 
+ API K
+ 
+ 5byIlPBO27ovwtdsd5VmmS7mJD6nG583tmecHbHB6TGr
+ URL
+ https://api.us-south.natural-language-understanding.watson.cloud.ibm.com/instances/65b136aa-b810-4ec0-81e6-88cd7ba836f0
+ 
+ 
+ Desafio 5
+ API
+ ejFCtCSptEdiI83eWziKNkbKmjFpP6sS6m5BlxYTkEaY
+ URL
+ https://api.us-east.discovery.watson.cloud.ibm.com/instances/c6b9b161-8ac9-4342-8218-3a9f8091bc22
+ 
+ CLAVE
+
+{
+  "apikey": "ejFCtCSptEdiI83eWziKNkbKmjFpP6sS6m5BlxYTkEaY",
+  "iam_apikey_description": "Auto-generated for key 3d3058a8-83df-4d58-a559-a7c342661ec9",
+  "iam_apikey_name": "Auto-generated service credentials",
+  "iam_role_crn": "crn:v1:bluemix:public:iam::::serviceRole:Manager",
+  "iam_serviceid_crn": "crn:v1:bluemix:public:iam-identity::a/08f0243a8c1c4400816f658b23ae1bd1::serviceid:ServiceId-fa012162-1eac-4dac-8eea-66203616ea06",
+  "url": "https://api.us-east.discovery.watson.cloud.ibm.com/instances/c6b9b161-8ac9-4342-8218-3a9f8091bc22"
+}
+
+COLECTION ID
+08a6177e-f11a-4b99-ae82-37a02b001f10
+CONFIGURATION ID
+3fa0ea9b-f669-41e9-aa7b-a242d09a8f51
+ENBIRO ID
+e2bb6471-8dda-48cd-b5e1-a0c74b84a1b9
+ 

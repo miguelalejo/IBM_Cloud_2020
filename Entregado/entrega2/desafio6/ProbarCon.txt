@@ -1,0 +1,13 @@
+Algoritmos:
+Catboost
+XgBoost
+LightGBM
+Gradient Boosting
+Shap Library
+
+https://machinelearningmastery.com/smote-oversampling-for-imbalanced-classification/
+
+Para datos catergóricos:
+Knn Imputer
+Iterative Imputer
+Pycaret
